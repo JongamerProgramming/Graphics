@@ -1,3 +1,5 @@
+#Ein sehr effektive Python-Klasse, um Vektoren auszurechnen
+
 class Vec(tuple):
     """ Eigene Vektor-Klasse um 2D-nDimensionale Koordinaten zu hinterlegen"""
 
